@@ -1,0 +1,15 @@
+---
+title: "Ryan's website"
+author: "Rsmizzle"
+date: "22 October 2018"
+output: html_document
+---
+
+---
+title: "Ryan's Website"
+---
+
+
+I am a postgraduate student in the University of Glasgow's
+[Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).
+I work with Maxine Swingler(https://www.gla.ac.uk/schools/psychology/staff/maxineswingler/)

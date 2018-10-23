@@ -1,9 +1,10 @@
-name: "Ryan's website"  
+name: "Ryan Smith"  
 author: "Ryan Smith"  
 output_dir: "docs"  
 output:  
   html_document:  
+  css: style.css
     self_contained: no  
-    theme: flatly  
+    theme: journal  
 navbar:  
   title: "Ryan's website" 

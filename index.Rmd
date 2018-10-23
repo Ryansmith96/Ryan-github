@@ -1,7 +1,6 @@
 ---
 title: "Ryan Smith BA"
 author: "Ryan Smith"
-date: "22 October 2018"
 output: html_document
 ---
 

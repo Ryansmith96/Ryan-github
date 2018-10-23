@@ -1,9 +1,9 @@
-name: "mywebpage"  
-author: "YOUR NAME"  
+name: "Ryan's website"  
+author: "Ryan Smith"  
 output_dir: "docs"  
 output:  
   html_document:  
     self_contained: no  
     theme: flatly  
 navbar:  
-  title: "My First Webpage" 
+  title: "Ryan's website" 

@@ -3,8 +3,13 @@ author: "Ryan Smith"
 output_dir: "docs"  
 output:  
   html_document:  
-  css: style.css
     self_contained: no  
-    theme: journal  
+    theme: journal
+    css: style.css
 navbar:  
   title: "Ryan's website" 
+  left:
+    - text: "Home"
+      href: index.Rmd
+    - text: "page 1"
+      href: page_1.Rmd

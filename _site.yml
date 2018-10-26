@@ -10,6 +10,7 @@ navbar:
   title: "Ryan's website" 
   left:
     - text: "Home"
-      href: index.Rmd
+      href: index.html
     - text: "page 1"
-      href: page_1.Rmd
+      href: page_1.html
+      

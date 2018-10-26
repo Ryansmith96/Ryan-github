@@ -1,13 +1,16 @@
 ---
 title: "Ryan Smith BA"
-author: "Ryan Smith"
-output: html_document
 ---
+<img src="Ryan.photo.jpg" style="width:25%; border:2px solid; margin-right: 20px" align="left">
 
----
-title: "Ryan Smith BA"
----
-![Ryan Smith](Ryan-github/Ryan.photo.jpg)
+
+
+
+
+
+
+
+
 
 My name is Ryan Smith, and I am a postgraduate student in the University of Glasgow's
 [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).

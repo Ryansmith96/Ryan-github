@@ -11,6 +11,8 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "page 1"
-      href: page_1.html
+    - text: "Research Experience"
+      href: Research_experience.html 
+    - text: "Education"
+      href: Education.html
       

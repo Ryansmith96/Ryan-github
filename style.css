@@ -3,5 +3,10 @@ html {
   font-family: "Calibri";
 }
 
+.row .one-half {
+  float: left;
+  width: 50%;
+}
+
 
 

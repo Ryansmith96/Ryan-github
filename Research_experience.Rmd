@@ -15,13 +15,26 @@ other details. These explanations were investigated using a 2 x 2 independent me
 
 
 ### University of Twente
-From June to August 2017, I undertook an Erasmus summer internship at the University of Twente, working in the [Psychology of Conflict, Risk, and Safety](https://www.utwente.nl/en/bms/pcrv/) department. There i worked with two other Erasmus students to develop a project investigating linguistic indicators of online deception in modern instant messaging platforms, under the supervision of [Dr. Marielle Stel](https://people.utwente.nl/m.stel). In order to investigate this, participants were paired into whatsapp groups anonymously, and asked to solve the Desert Survival problem. In this hypothetical scenario, participants are told to imagine their aeroplane had crashed in the desert, and they had a list of 15 salvageable items to help ensure their survival (such as water, a pistol, waterproof clothing). They were instructed to reach a consensual ranking from most to least important in terms of survival value. In this study, participants in the experimental condition were designated the "deceiver", and were briefed on different deception strategies, and tasked with giving counterproductive advice in order to ultimately sabotage the survival attempt. Participant's word count, use of informal language, and emoji use was analysed. 
+From June to August 2017, I undertook an Erasmus summer internship at the University of Twente, working in the [Psychology of Conflict, Risk, and Safety](https://www.utwente.nl/en/bms/pcrv/) department. There i worked with two other Erasmus students to develop a project investigating linguistic indicators of online deception in modern instant messaging platforms, under the supervision of [Dr. Marielle Stel](https://people.utwente.nl/m.stel). In order to investigate this, participants were paired into whatsapp groups anonymously, and asked to solve the Desert Survival problem. In this hypothetical scenario, participants are told to imagine their aeroplane had crashed in the desert, and they had a list of 15 salvageable items to help ensure their survival (such as water, a pistol, waterproof clothing). They were instructed to reach a consensual ranking from most to least important in terms of survival value. In this study, participants in the experimental condition were designated the "deceiver", and were briefed on different deception strategies, and tasked with giving counterproductive advice in order to ultimately sabotage the survival attempt. Participant's word count, use of informal language, and emoji use was analysed.
+
+<div class="row">
+  
+  <div class="one-half">
 
 <img src="truther.msg.png" style="width:25%; margin-right: 20px">
 <p>Example of truthful participant. Here they can be seen presenting a the items in a ranking they believe in<p>
+  
+  </div>
+  
+    <div class="one-half">
+
 
 <img src="liar.msg.jpg" style="width:25%; margin-right: 20px">
 <p>Example of a deceitful participant. Here they can be seen attempting to justify their choice of item rankings<p>
+  
+  </div>
+  
+</div>
 
 
 

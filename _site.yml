@@ -2,7 +2,9 @@ name: "Ryan Smith"
 author: "Ryan Smith"  
 output_dir: "docs"  
 output:  
-  html_document:  
+  html_document:
+    toc: true
+    toc_float: true
     self_contained: no  
     theme: journal
     css: style.css
@@ -15,4 +17,7 @@ navbar:
       href: Research_experience.html 
     - text: "Education"
       href: Education.html
+  right:    
+    - text: "Contact"
+      href: Contact.html
       

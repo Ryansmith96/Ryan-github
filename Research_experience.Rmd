@@ -5,7 +5,7 @@
 
 ### University of Strathclyde 
 <p>For my undergraduate dissertation, i developed a study investigating explanations for the Weapon Focus effect in eyewitness testimony, supervised by <a href="https://pureportal.strath.ac.uk/en/persons/stephen-kelly">Dr Steven Kelly</a>.</p>
-<p>The weapon focus effect, defined as a drop in memory performance for a scene caused by the presence of a weapon, has been explained through two hypothesis. The arousal/threat hypothesis attributes the weapon focus effect effect to attentional narrowing caused by physiological stress, whereas the unusual item hypothesis claims the memory deficit comes from difficulty processing objects schematically incongruent for their context, which causes them to draw more attention at memory encoding, at the expense of memory for other details. These explanations were investigated using a 2 x 2 independent measures design, manipulating threat and item unusualness.</p>
+<p>The weapon focus effect, defined as a drop in memory performance for a scene caused by the presence of a weapon, has been explained through two hypotheses: The arousal/threat hypothesis attributes the weapon focus effect effect to attentional narrowing caused by physiological stress, whereas the unusual item hypothesis claims the memory deficit comes from difficulty processing objects schematically incongruent for their context, which causes them to draw more attention at memory encoding, at the expense of memory for other details. These explanations were investigated using a 2 x 2 independent measures design, manipulating threat and item unusualness.</p>
 
 The full paper can be read [here](Dissertation.pdf)
 

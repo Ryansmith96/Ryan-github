@@ -4,16 +4,16 @@
 
 
 ### University of Strathclyde 
-<p>For my undergraduate dissertation, i developed a study investigating explanations for the Weapon Focus effect in eyewitness testimony, supervised by <a href="https://pureportal.strath.ac.uk/en/persons/stephen-kelly">Dr Steven Kelly</a>.</p>
-<p>The weapon focus effect, defined as a drop in memory performance for a scene caused by the presence of a weapon, has been explained through two hypotheses: The arousal/threat hypothesis attributes the weapon focus effect effect to attentional narrowing caused by physiological stress, whereas the unusual item hypothesis claims the memory deficit comes from difficulty processing objects schematically incongruent for their context, which causes them to draw more attention at memory encoding, at the expense of memory for other details. These explanations were investigated using a 2 x 2 independent measures design, manipulating threat and item unusualness.</p>
+<p>For my undergraduate dissertation, I developed a study investigating explanations for the Weapon Focus effect in eyewitness testimony, supervised by <a href="https://pureportal.strath.ac.uk/en/persons/stephen-kelly">Dr Steven Kelly</a>.</p>
+<p>The weapon focus effect, defined as a drop in memory performance for a scene caused by the presence of a weapon, has been explained through two hypotheses: The arousal/threat hypothesis attributes the weapon focus effect effect to attentional narrowing caused by physiological stress, whereas the unusual item hypothesis claims the memory deficit arises from difficulty processing objects schematically incongruent for their context, which causes them to draw more attention at memory encoding, at the expense of memory for other details. These explanations were investigated using a 2 x 2 independent measures design, manipulating threat and item unusualness.</p>
 
-The full paper can be read [here](Dissertation.pdf)
+The full paper can be read [here.](Dissertation.pdf)
 
 &nbsp;
 
 <div class="figure">
-<img src="https://smith-r.github.io/Ryan-github/dissertation.materials.jpg" alt="screenshots of stimulus videos, purpose made for the study" />
-<p class="caption">screenshots of stimulus videos, purpose made for the study</p>
+<img src="https://smith-r.github.io/Ryan-github/dissertation.materials.jpg" alt="Screenshots of stimulus videos, purpose made for the study." />
+<p class="caption">Screenshots of stimulus videos, purpose made for the study.</p>
 </div>
 
 
@@ -21,7 +21,7 @@ The full paper can be read [here](Dissertation.pdf)
 
     
 ### University of Twente
-<p>From June to August 2017, I undertook an Erasmus summer internship at the University of Twente, working in the <a href="https://www.utwente.nl/en/bms/pcrv/">Psychology of Conflict, Risk, and Safety</a> department. There i worked with two other Erasmus students to develop a project investigating linguistic indicators of online deception in modern instant messaging platforms, under the supervision of <a href="https://people.utwente.nl/m.stel">Dr. Marielle Stel</a>. In order to investigate this, participants were paired into whatsapp groups anonymously, and asked to solve the Desert Survival problem. In this hypothetical scenario, participants are told to imagine their aeroplane had crashed in the desert, and they had a list of 15 salvageable items to help ensure their survival (such as water, a pistol, waterproof clothing). They were instructed to reach a consensual ranking from most to least important in terms of survival value. In this study, participants in the experimental condition were designated to the deceiver condition, and were briefed on different deception strategies, and tasked with giving counterproductive advice in order to ultimately sabotage the survival attempt. Participant word count, use of informal language, and emoji use was analysed.</p>
+<p>From June to August 2017, I undertook an Erasmus summer internship at the University of Twente, working in the <a href="https://www.utwente.nl/en/bms/pcrv/">Psychology of Conflict, Risk, and Safety</a> department. There I worked with two other Erasmus students to develop a project investigating linguistic indicators of online deception in modern instant messaging platforms, under the supervision of <a href="https://people.utwente.nl/m.stel">Dr. Marielle Stel</a>. In order to investigate this, participants were paired into whatsapp groups anonymously, and asked to solve the Desert Survival problem. In this hypothetical scenario, participants are told to imagine their aeroplane had crashed in the desert, and they had a list of 15 salvageable items to help ensure their survival (such as water, a pistol, and  waterproof clothing). They were instructed to reach a consensual ranking from most to least important in terms of survival value. In this study, participants in the experimental condition were designated to the deceiver condition, and were briefed on different deception strategies, and tasked with giving counterproductive advice in order to ultimately sabotage the survival attempt. Participant word count, use of informal language, and emoji use was analysed.</p>
 <div class="row">
 
 &nbsp;
@@ -50,11 +50,19 @@ Example of a deceitful participant. Here they can be seen attempting to justify 
 
 &nbsp;
 
+<div class="figure">
+<img src="manny.harass.png" style="width:35%; margin-right: 20px", alt="Science in action." />
+<p class="caption">Science in action.</p>
+</div>
+
+
+&nbsp;
+
 &nbsp;
 
 ### University of Glasgow 
 
-<p>Currently, i am developing a project investigating simulations of eating behaviour, expanding on the research of <a href="https://www.gla.ac.uk/schools/psychology/staff/estherpapies/">Esther Papies</a>, and supervised by <a href="https://www.gla.ac.uk/schools/psychology/staff/maxineswingler/">Maxine Swingler</a>. Grounded cognition theory explains that as a food is encountered in a situation, different neural systems encode different aspects of the situation, which are integrated into a global picture. These stored experiences knowledge form simulations of how an individual typically experiences the target food. This project will build on previous work investigating eating simulations through feature listing tasks with a series of semi-structured interviews with participants, in order to get a deeper understanding of how these simulations are formed, and how they influence the motivation to consume certain kinds of food.</p>
+<p>Currently, I am developing a project investigating simulations of eating behaviour, expanding on the research of <a href="https://www.gla.ac.uk/schools/psychology/staff/estherpapies/">Esther Papies</a>, and supervised by <a href="https://www.gla.ac.uk/schools/psychology/staff/maxineswingler/">Maxine Swingler</a>. Grounded cognition theory explains that as a food is encountered in a situation, different neural systems encode different aspects of the situation, which are integrated into a global picture. These stored experiences knowledge form simulations of how an individual typically experiences the target food. This project will build on previous work investigating eating simulations through feature listing tasks with a series of semi-structured interviews with participants, in order to get a deeper understanding of how these simulations are formed, and how they influence the motivation to consume certain kinds of food.</p>
 
     
     

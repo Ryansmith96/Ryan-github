@@ -1,7 +1,18 @@
 ### University of Strathclyde 
 
-<p>Graduated from the University of Strathclyde with a  Bachelor of Arts degree in Psychology in June 2018. Second class, upper division. 
-Attended classes in areas such as:</p>
+Graduated from the University of Strathclyde with a  Bachelor of Arts degree in Psychology in June 2018. Second class, upper division. 
+
+&nbsp;
+
+<img src="grad.photo.jpg" style="width:37%; margin-right: 20px", align="center">
+&nbsp;
+
+&nbsp;
+
+
+
+
+Attended classes in areas such as:
 
 
 * Artificial Intelligence

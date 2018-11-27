@@ -35,12 +35,14 @@ Full copy of my cv can be found [here.](Academic.CV.pdf)
 ### Institutions
 
 
-* University of Strathclyde
-    * Graduated in 2018 with a 2:1 in BA Psychology
-* University of Twente
-    * Took part in an Erasmus funded research internship in summer 2017
+
+
 * University of Glasgow
     * Currently enrolled in Msc Research Methods in Psychological Science
+* University of Twente
+    * Took part in an Erasmus funded research internship in summer 2017
+* University of Strathclyde
+    * Graduated in 2018 with a 2:1 in BA Psychology
 
 
 

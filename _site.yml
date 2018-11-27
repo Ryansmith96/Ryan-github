@@ -18,7 +18,7 @@ navbar:
     - text: "Education"
       href: Education.html
   right:    
-    - text: "More about me"
+    - text: "More About Me"
       href: about.html
     - text: "Contact"
       href: Contact.html

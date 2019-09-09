@@ -1,3 +1,7 @@
+---
+title: "Research Experience"
+---
+
 ### University of Glasgow 
 
 <p>Between September 2018 and July 2019, I developed a mixed-methods project investigating the conceptual representation of food as stored in simulations based on previous eating experience, expanding on the research of <a href="https://www.gla.ac.uk/schools/psychology/staff/estherpapies/">Esther Papies</a>, and supervised by <a href="https://www.gla.ac.uk/schools/psychology/staff/maxineswingler/">Maxine Swingler</a>. The first phase of this study investigated factors affecting the level of imagery experienced during the conceptualisation of different foods.</p>

@@ -9,7 +9,7 @@ output:
     theme: journal
     css: style.css
 navbar:  
-  title: "Ryan's website" 
+  title: "Ryan Smith" 
   left:
     - text: "Home"
       href: index.html

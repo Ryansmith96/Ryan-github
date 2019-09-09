@@ -1,10 +1,25 @@
 ### University of Glasgow 
 
-<p>Between September 2018 and July 2019, I developed a mixed-methods project investigating the conceptual representation of food as stored in simulations based on previous eating experience, expanding on the research of <a href="https://www.gla.ac.uk/schools/psychology/staff/estherpapies/">Esther Papies</a>, and supervised by <a href="https://www.gla.ac.uk/schools/psychology/staff/maxineswingler/">Maxine Swingler</a>. The first phase of this study investigated factors affecting the level of imagery used in the conceptualisation of different foods. bla bla talk about more later 
-
-<p>Currently, I am developing a project investigating simulations of eating behaviour, expanding on the research of <a href="https://www.gla.ac.uk/schools/psychology/staff/estherpapies/">Esther Papies</a>, and supervised by <a href="https://www.gla.ac.uk/schools/psychology/staff/maxineswingler/">Maxine Swingler</a>. Grounded cognition theory explains that as a food is encountered in a situation, different neural systems encode different aspects of the situation, which are integrated into a global picture. These stored experiences knowledge form simulations of how an individual typically experiences the target food. This project will build on previous work investigating eating simulations through feature listing tasks with a series of semi-structured interviews with participants, in order to get a deeper understanding of how these simulations are formed, and how they influence the motivation to consume certain kinds of food.</p>
+<p>Between September 2018 and July 2019, I developed a mixed-methods project investigating the conceptual representation of food as stored in simulations based on previous eating experience, expanding on the research of <a href="https://www.gla.ac.uk/schools/psychology/staff/estherpapies/">Esther Papies</a>, and supervised by <a href="https://www.gla.ac.uk/schools/psychology/staff/maxineswingler/">Maxine Swingler</a>. The first phase of this study investigated factors affecting the level of imagery experienced during the conceptualisation of different foods.</p>
 
 &nbsp;
+
+The second phase of this study utilised qualitative data gathered from 8 semi-structured interviews. Three major themes were identified as important to the experience and formation of eating simulations: motivation, experience, and reward. 
+
+&nbsp;
+
+The full paper can be read [here.](Thesis.pdf)
+
+&nbsp;
+
+
+<div class="figure">
+<img src="Unhealthy-healthy.png" width="500px"
+/>
+<p class="caption">Participants were shown food words on screen, and asked to list features typically true of that food. The percentage of eating simulation related features out of each participant's total listed features for each prompt was calculated. Eating simulation feature percentages for Healthy and Unhealthy food prompts are summarised here.</p>
+</div>
+
+
 
 &nbsp;
 

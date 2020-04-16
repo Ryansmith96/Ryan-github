@@ -12,9 +12,9 @@ title: "Ryan Smith"
 
 
 
-My name is Ryan Smith, and I am a postgraduate student in the University of Glasgow's
+My name is Ryan Smith, and I am a recently graduated postgraduate student of the University of Glasgow's
 [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/). There, 
-I am currently working with [Dr. Maxine Swingler](https://www.gla.ac.uk/schools/psychology/staff/maxineswingler/) investigating the mental representation of food in stored eating simulations, and how these simulations influence the motivation to consume different types of food. 
+I worked with [Dr. Maxine Swingler](https://www.gla.ac.uk/schools/psychology/staff/maxineswingler/) investigating the mental representation of food in stored eating simulations, and how these simulations influence the motivation to consume different types of food. 
 
 &nbsp;
 
@@ -23,7 +23,7 @@ I am currently working with [Dr. Maxine Swingler](https://www.gla.ac.uk/schools/
 
 Full copy of my cv can be found [here.](Ryan-Smith-(Research).pdf)
 
-TESTTESTTESTTEST
+
 
 &nbsp;
 
@@ -40,7 +40,7 @@ TESTTESTTESTTEST
 
 
 * University of Glasgow
-    * Msc Research Methods in Psychological Science (Expected to graduate with Merit in            December 2019)
+    * Msc Research Methods in Psychological Science (Graduated with Merit in December 2019)
 * University of Twente
     * Took part in an Erasmus funded research internship in summer 2017
 * University of Strathclyde
@@ -48,15 +48,29 @@ TESTTESTTESTTEST
 
 
 
-### Research interests
+### Professional Interests
 
 
 * Cognitive Psychology
     * Psychology of Eyewitness Testimony
     * Food conceptualisation & eating simulation
+    * Grounded Cognition Theory
 * Social Psychology
     * Deception
-    * Sexual Harassment 
+    * Sexual Harassment
+* Research Methods 
+    * Quantitative research using linear modelling 
+    * Statistical analysis 
+    * Mixed methods research designs
+    * Qualitative research methods
+* Programming
+    * R for database manipulation and analysis
+    * Rmarkdown for generation of reproducible analysis scripts
+    * HTML for formatting & web design 
+    * Developing functions with Python 
+    * Basic Data Definition Language and Data Manipulation Language with MYSQL
+    * Google Cloud Platform for generating Virtual Machines for web hosting
+
     
     
 

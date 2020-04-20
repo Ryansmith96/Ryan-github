@@ -34,14 +34,14 @@ The full paper can be read [here.](Thesis.pdf)
 &nbsp;
 
 <div class="one-half">
-<img src="https://smith-r.github.io/Ryan-github/truther.msg.png" id="left-image">
+<img src="truther.msg.png" id="left-image">
 <p class="text-left">
 Example of truthful participant. Here they can be seen presenting a the items in a ranking they believe in
     </p>
 </div>
     
 <div class="one-half">
-<img src="https://smith-r.github.io/Ryan-github/liar.msg.jpg">
+<img src="liar.msg.jpg">
 <p class="text-left">
 Example of a deceitful participant. Here they can be seen attempting to justify their choice of item rankings
     </p>
@@ -78,7 +78,7 @@ The full paper can be read [here.](Dissertation.pdf)
 &nbsp;
 
 <div class="figure">
-<img src="https://smith-r.github.io/Ryan-github/dissertation.materials.jpg" alt="Screenshots of stimulus videos, purpose made for the study." />
+<img src="dissertation.materials.jpg" alt="Screenshots of stimulus videos, purpose made for the study." />
 <p class="caption">Screenshots of stimulus videos, purpose made for the study.</p>
 </div>
 
